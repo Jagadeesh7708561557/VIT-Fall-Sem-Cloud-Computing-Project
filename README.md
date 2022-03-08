@@ -1,5 +1,5 @@
 # VIT-Fall-Sem-Cloud-Computing-Project
- **18MIS0271-H JAGADEESH ; 18MIS0273-B SUDHARSHAN**
+ **18MIS0271-H JAGADEESH**
 
  ## Inventory management and supply chain management are the backbone of any business operations. With the development of technology and availability of process driven software applications, inventory management has undergone revolutionary changes.In any business or organization, all functions are interlinked and connected to each other and are often succeeded
 
